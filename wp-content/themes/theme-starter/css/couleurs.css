@@ -1,0 +1,89 @@
+.Tag{
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+@media (max-width: 789px) {
+    .imglogozino{width:175px;height:60px;margin:10px}
+    .search {margin: 0px;}
+    .icones i {font-size: 10px;}
+}
+p.details__text {
+    margin-right: 20%;
+    margin-left: 10px;
+}
+/* bouton rechercher */
+input#woocommerce-product-search-field-0 {
+    border: none;
+}
+button {
+    border: none;
+    background: white;
+}
+.search {
+    padding: 15px;
+}
+
+/* article */
+article {
+    width: 75%;
+    margin: auto;
+}
+
+
+.graphicTag {
+    background-color: #c10230;
+    color: white;
+}
+.zineTag {
+    background-color: #870f54;
+    color: white;
+}
+.kitTag {
+    background-color: #00abc8;
+}
+.bankTag {
+    background-color: #93d500;
+}
+.printTag {
+    background-color: #fd0;
+}
+.pinTag {
+    background-color: #ff6b00;
+}
+.padTag {
+    background-color: #c10230;
+    color: white;
+}
+.graphyTag {
+    background-color: #870f54;
+    color: white;
+}
+.badgeTag {
+    background-color: #00abc8;
+}
+.boxTag {
+    background-color: #93d500;
+}
+.craftTag {
+    background-color: #fd0;
+}
+.codeTag {
+    background-color: #ff6b00;
+}
+.gifTag {
+    background-color: #c10230;
+    color: white;
+}
+.toyTag {
+    background-color: #870f54;
+    color: white;
+}
+.arTag {
+    background-color: #00abc8;
+}
+.laserTag {
+    background-color: #93d500;
+}
